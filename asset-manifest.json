@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/searchuser-react-pratice/static/css/main.7edb7fba.css",
+    "main.js": "/searchuser-react-pratice/static/js/main.74c66c40.js",
+    "index.html": "/searchuser-react-pratice/index.html",
+    "main.7edb7fba.css.map": "/searchuser-react-pratice/static/css/main.7edb7fba.css.map",
+    "main.74c66c40.js.map": "/searchuser-react-pratice/static/js/main.74c66c40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7edb7fba.css",
+    "static/js/main.74c66c40.js"
+  ]
+}
